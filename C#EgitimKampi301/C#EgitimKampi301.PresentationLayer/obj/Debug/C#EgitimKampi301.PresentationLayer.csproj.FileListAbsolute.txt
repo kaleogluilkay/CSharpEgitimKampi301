@@ -1,0 +1,9 @@
+C:\Users\userr\source\repos\C#EgitimKampi301\C#EgitimKampi301.PresentationLayer\bin\Debug\C#EgitimKampi301.PresentationLayer.exe.config
+C:\Users\userr\source\repos\C#EgitimKampi301\C#EgitimKampi301.PresentationLayer\bin\Debug\C#EgitimKampi301.PresentationLayer.exe
+C:\Users\userr\source\repos\C#EgitimKampi301\C#EgitimKampi301.PresentationLayer\bin\Debug\C#EgitimKampi301.PresentationLayer.pdb
+C:\Users\userr\source\repos\C#EgitimKampi301\C#EgitimKampi301.PresentationLayer\obj\Debug\C#EgitimKampi301.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\userr\source\repos\C#EgitimKampi301\C#EgitimKampi301.PresentationLayer\obj\Debug\C_EgitimKampi301.PresentationLayer.Properties.Resources.resources
+C:\Users\userr\source\repos\C#EgitimKampi301\C#EgitimKampi301.PresentationLayer\obj\Debug\C#EgitimKampi301.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\userr\source\repos\C#EgitimKampi301\C#EgitimKampi301.PresentationLayer\obj\Debug\C#EgitimKampi301.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\userr\source\repos\C#EgitimKampi301\C#EgitimKampi301.PresentationLayer\obj\Debug\C#EgitimKampi301.PresentationLayer.exe
+C:\Users\userr\source\repos\C#EgitimKampi301\C#EgitimKampi301.PresentationLayer\obj\Debug\C#EgitimKampi301.PresentationLayer.pdb
